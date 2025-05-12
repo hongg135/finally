@@ -1,0 +1,7 @@
+[
+  {
+    "userId": "testUser123",
+    "amount": 100,
+    "transactionId": "txn123"
+  }
+]
